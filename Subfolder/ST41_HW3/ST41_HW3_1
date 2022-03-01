@@ -1,0 +1,13 @@
+,weight,n_neighbors,metric,Accuracy
+0,uniform,3.0,manhattan,1.0
+1,uniform,3.0,euclidean,1.0
+2,uniform,5.0,manhattan,1.0
+3,uniform,5.0,euclidean,1.0
+4,uniform,7.0,manhattan,1.0
+5,uniform,7.0,euclidean,1.0
+6,distance,3.0,manhattan,1.0
+7,distance,3.0,euclidean,1.0
+8,distance,5.0,manhattan,1.0
+9,distance,5.0,euclidean,1.0
+10,distance,7.0,manhattan,1.0
+11,distance,7.0,euclidean,1.0
